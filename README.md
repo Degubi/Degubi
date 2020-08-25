@@ -18,3 +18,18 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://p1.hiclipart.com/preview/709/737/126/numix-circle-for-windows-mongodb-icon-png-icon.jpg">](https://www.mongodb.com/)
 [<img align="left" alt="Heroku" width="26px" src="https://image.flaticon.com/icons/png/512/873/873120.png">](https://www.heroku.com/)
 [<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">](https://git-scm.com/)
+<br>
+
+### Projects I contributed to:
+<table
+  <tr>
+    <td><a href="https://github.com/eclipse-ee4j/yasson">Yasson</a></td>
+    <td><a href="https://github.com/google/gson/yasson">Gson</a></td>
+    <td><a href="https://github.com/kwhat/jnativehook">JNativeHook</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DmitriiShamrikov/mslinks">mslinks</a></td>
+    <td><a href="https://github.com/ata4/bspsrc">BSPSrc</a></td>
+    <td><a href="https://github.com/stef-levesque/vscode-3dviewer">VSCode-3dViewer</a></td>
+  </tr>
+</table>
