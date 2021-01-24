@@ -9,10 +9,7 @@
   <a href = "https://github.com/degubi" title = "Follow">
     <img src = "https://img.shields.io/github/followers/degubi?logo=github&style=for-the-badge">
   </a>
-</p>
-
-## Stats:
-<p align = center>
+  <br><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=degubi&show_icons=true&count_private=true&include_all_commits=true">
 </p>
 
