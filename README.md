@@ -1,35 +1,85 @@
-### Links:
-[<img align="left" title="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">](https://www.youtube.com/channel/UCEN3i-ELXbeamHhk21RVaZQ)
-[<img align="left" title="Steam" width="22px" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png">](https://steamcommunity.com/id/Degubi)
-[![GitHub](https://img.shields.io/github/followers/degubi?label=follow&style=social)](https://github.com/degubi)
+## Links:
+<p align = center>
+  <a href = "https://www.youtube.com/channel/UCEN3i-ELXbeamHhk21RVaZQ" title = "YouTube">
+    <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href = "https://steamcommunity.com/id/Degubi" title = "Steam">
+    <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  <a href = "https://github.com/degubi" title = "Follow">
+    <img src = "https://img.shields.io/github/followers/degubi?logo=github&style=for-the-badge">
+  </a>
+</p>
 
-### Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=degubi&show_icons=true&count_private=true&include_all_commits=true)
+## Stats:
+<p align = center>
+  <img src = "https://github-readme-stats.vercel.app/api?username=degubi&show_icons=true&count_private=true&include_all_commits=true">
+</p>
 
-### Languages:
-[<img align="left" width="26px" title="Java" src="https://i7.pngguru.com/preview/709/905/282/openjdk-java-virtual-machine-android-oracle-corporation-android.jpg">](https://openjdk.java.net/)
-[<img align="left" width="26px" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://www.javascript.com/)
-[<img align="left" width="32px" title="C" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">](https://www.cplusplus.com/)
-[<img align="left" width="32px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org/)
-[<img align="left" width="26px" title="F#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png">](https://fsharp.org/)
-[<img align="left" width="26px" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png">](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img align="left" width="26px" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">](https://dart.dev/)
-<br>
+## Languages:
+<p align = center>
+  <a href = "https://openjdk.java.net" title = "Java">
+    <img src = "https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" width = 7%>
+  </a>
+  <a href = "https://www.javascript.com" title = "JavaScript">
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = 7%>
+  </a>
+  <a href = "https://fsharp.org" title = "F#">
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png" width = 7%>
+  </a>
+  <a href = "https://docs.microsoft.com/en-us/dotnet/csharp" title = "C#">
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" width = 7%>
+  </a>
+  <a href = "https://www.cplusplus.com" title = "C">
+    <img src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width = 7%>
+  </a>
+  <a href = "https://www.python.org" title = "Python">
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = 7%>
+  </a>
+  <a href = "https://dart.dev" title = "C">
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width = 7%>
+  </a>
+</p>
 
-### Tools:
-[<img align="left" width="26px" title="Eclipse" src="https://img.favpng.com/19/5/20/eclipse-computer-icons-integrated-development-environment-computer-software-png-favpng-MP7Mt60AUSbUv28tJZqBNPhmJ.jpg">](https://www.eclipse.org/downloads/)
-[<img align="left" width="26px" title="VsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">](https://code.visualstudio.com/)
-[<img align="left" title="SpringBoot" width="26px" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png">](https://spring.io/projects/spring-boot)
-[<img align="left" title="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://nodejs.org/en/)
-[<img align="left" title="Three.js" width="26px" src="https://user-images.githubusercontent.com/13366932/91737137-f5dd9d80-ebae-11ea-9a68-aa6088f73133.png">](https://threejs.org/)
-[<img align="left" title="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">](https://flutter.dev/)
-[<img align="left" title="MongoDB" width="26px" src="https://p1.hiclipart.com/preview/709/737/126/numix-circle-for-windows-mongodb-icon-png-icon.jpg">](https://www.mongodb.com/)
-[<img align="left" title="Heroku" width="26px" src="https://image.flaticon.com/icons/png/512/873/873120.png">](https://www.heroku.com/)
-[<img align="left" title="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">](https://git-scm.com/)
-<br>
+## Tools:
+<p align = center>
+  <a href = "https://www.eclipse.org/downloads" title = "Eclipse">
+    <img src = "https://img.favpng.com/19/5/20/eclipse-computer-icons-integrated-development-environment-computer-software-png-favpng-MP7Mt60AUSbUv28tJZqBNPhmJ.jpg" width = 7%>
+  </a>
+  <a href = "https://code.visualstudio.com" title = "VSCode">
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width = 7%>
+  </a>
+  <a href = "https://spring.io/projects/spring-boot" title = "SpringBoot">
+    <img src = "https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" width = 7%>
+  </a>
+  <a href = "https://dotnet.microsoft.com" title = ".Net">
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width = 7%>
+  </a>
+  <a href = "https://nodejs.org/en" title = "NodeJS">
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width = 7%>
+  </a>
+  <a href = "https://threejs.org" title = "Three.js">
+    <img src = "https://user-images.githubusercontent.com/13366932/91737137-f5dd9d80-ebae-11ea-9a68-aa6088f73133.png" width = 7%>
+  </a>
+  <a href = "https://flutter.dev" title = "Flutter">
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width = 7%>
+  </a>
+  <a href = "https://www.mongodb.com" title = "MongoDB">
+    <img src = "https://img.icons8.com/color/452/mongodb.png" width = 7%>
+  </a>
+  <a href = "https://www.heroku.com" title = "Heroku">
+    <img src = "https://image.flaticon.com/icons/png/512/873/873120.png" width = 7%>
+  </a>
+  <a href = "https://github.com" title = "GitHub">
+    <img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width = 7%>
+  </a>
+  <a href = "https://git-scm.com" title = "Git">
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/64px-Git_icon.svg.png" width = 7%>
+  </a>
+</p>
 
-### Projects I contributed to:
-<table
+## Projects I contributed to:
+<table>
   <tr>
     <td><a href="https://github.com/eclipse-ee4j/yasson">Yasson</a></td>
     <td><a href="https://github.com/google/gson/yasson">Gson</a></td>
