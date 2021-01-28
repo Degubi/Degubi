@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/eclipse-ee4j/yasson">Yasson</a></td>
-    <td><a href="https://github.com/google/gson/yasson">Gson</a></td>
+    <td><a href="https://github.com/google/gson">Gson</a></td>
     <td><a href="https://github.com/kwhat/jnativehook">JNativeHook</a></td>
   </tr>
   <tr>
