@@ -25,7 +25,7 @@
     <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png" width = 7%>
   </a>
   <a href = "https://docs.microsoft.com/en-us/dotnet/csharp" title = "C#">
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" width = 7%>
+    <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width = 7%>
   </a>
   <a href = "https://www.cplusplus.com" title = "C">
     <img src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width = 7%>
