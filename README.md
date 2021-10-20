@@ -90,4 +90,7 @@
     <td><a href="https://github.com/ata4/bspsrc">BSPSrc</a></td>
     <td><a href="https://github.com/stef-levesque/vscode-3dviewer">VSCode-3dViewer</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/three-types/three-ts-types">three-ts-types</a></td>
+  </tr>
 </table>
