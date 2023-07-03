@@ -3,14 +3,15 @@
   <a href = "https://www.youtube.com/channel/UCEN3i-ELXbeamHhk21RVaZQ" title = "YouTube">
     <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+  <a href = "https://open.spotify.com/user/316pkgollq5svwjl5mavvigwi2ti" title = "Follow">
+    <img src = "https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954">
+  </a>
   <a href = "https://steamcommunity.com/id/Degubi" title = "Steam">
     <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
   <a href = "https://github.com/degubi" title = "Follow">
     <img src = "https://img.shields.io/github/followers/degubi?logo=github&style=for-the-badge">
   </a>
-  <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=degubi&show_icons=true&count_private=true&include_all_commits=true">
 </p>
 
 ## Languages:
