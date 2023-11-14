@@ -36,6 +36,7 @@
   <a href = "https://www.heroku.com" title = "Heroku"><img src = "https://cdn-icons-png.flaticon.com/256/873/873120.png" width = 7%></a>
   <a href = "https://github.com" title = "GitHub"><img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width = 7%></a>
   <a href = "https://git-scm.com" title = "Git"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/64px-Git_icon.svg.png" width = 7%></a>
+  <a href = "https://git-scm.com" title = "Jira"><img src = "https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width = 7%></a>
 </p>
 
 ## Projects I contributed to:
