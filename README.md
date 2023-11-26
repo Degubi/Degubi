@@ -1,4 +1,4 @@
-## Links:
+## Links
 <p align = center>
   <a href = "https://www.youtube.com/channel/UCEN3i-ELXbeamHhk21RVaZQ" title = "YouTube"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href = "https://open.spotify.com/user/316pkgollq5svwjl5mavvigwi2ti" title = "Follow"><img src = "https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954"></a>
@@ -6,7 +6,7 @@
   <a href = "https://github.com/degubi" title = "Follow"><img src = "https://img.shields.io/github/followers/degubi?logo=github&style=for-the-badge"></a>
 </p>
 
-## Languages:
+## Languages
 <p align = center>
   <img src = "https://icons-for-free.com/iconfiles/png/256/java+icon-1320167912601224138.png" width = 7%>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = 7%>
@@ -20,7 +20,7 @@
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width = 7%>
 </p>
 
-## Tools:
+## Tools
 <p align = center>
   <a href = "https://www.eclipse.org/downloads" title = "Eclipse"><img src = "https://iconape.com/wp-content/png_logo_vector/eclipse-2.png" width = 7%></a>
   <a href = "https://code.visualstudio.com" title = "VSCode"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width = 7%></a>
@@ -39,7 +39,7 @@
   <a href = "https://git-scm.com" title = "Jira"><img src = "https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width = 7%></a>
 </p>
 
-## Projects I contributed to:
+## Projects I contributed to
 <table>
   <tr>
     <td><a href="https://github.com/eclipse-ee4j/yasson">Yasson</a></td>
