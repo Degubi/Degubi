@@ -31,12 +31,13 @@
   <a href = "https://dotnet.microsoft.com" title = ".Net"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width = 7%></a>
   <a href = "https://nodejs.org/en" title = "NodeJS"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width = 7%></a>
   <br>
-  <a href = "https://www.postgresql.org/" title = "PostgreSQL"><img src = "https://cdn-icons-png.flaticon.com/256/5968/5968342.png" width = 7%></a>
+  <a href = "https://www.postgresql.org" title = "PostgreSQL"><img src = "https://cdn-icons-png.flaticon.com/256/5968/5968342.png" width = 7%></a>
+  <a href = "https://www.sqlite.org" title = "SQLite"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width = 7%></a>
   <a href = "https://www.mongodb.com" title = "MongoDB"><img src = "https://img.icons8.com/color/452/mongodb.png" width = 7%></a>
   <a href = "https://www.heroku.com" title = "Heroku"><img src = "https://cdn-icons-png.flaticon.com/256/873/873120.png" width = 7%></a>
   <a href = "https://github.com" title = "GitHub"><img src = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width = 7%></a>
   <a href = "https://git-scm.com" title = "Git"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/64px-Git_icon.svg.png" width = 7%></a>
-  <a href = "https://git-scm.com" title = "Jira"><img src = "https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width = 7%></a>
+  <a href = "https://www.atlassian.com/software/jira" title = "Jira"><img src = "https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width = 7%></a>
 </p>
 
 ## Projects I contributed to
