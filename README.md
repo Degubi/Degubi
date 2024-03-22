@@ -29,6 +29,7 @@
     <a href = "https://threejs.org" title = "Three.js"><img src = "https://user-images.githubusercontent.com/13366932/91737137-f5dd9d80-ebae-11ea-9a68-aa6088f73133.png" width = 7%></a>
   <a href = "https://svelte.dev" title = "Svelte"><img src = "https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" width = 7%></a>
   <a href = "https://fastify.dev" title = "Fasfify"><img src = "https://www.svgrepo.com/show/306030/fastify.svg" width = 7%></a>
+  <a href = "https://actix.rs" title = "Actix"><img src = "https://actix.rs/img/logo.png" width = 7%></a>
   <a href = "https://flutter.dev" title = "Flutter"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width = 7%></a>
   <br>
   <a href = "https://www.postgresql.org" title = "PostgreSQL"><img src = "https://cdn-icons-png.flaticon.com/256/5968/5968342.png" width = 7%></a>
