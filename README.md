@@ -23,7 +23,7 @@
 
 ## Tools
 <p align = center>
-  <a href = "https://www.eclipse.org" title = "Eclipse"><img src = "https://iconape.com/wp-content/png_logo_vector/eclipse-2.png" width = 7%></a>
+  <a href = "https://neovim.io" title = "Neovim"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVmqFmFmx0l56lgFgNyc4TlfdZTZ0Ni1MBA&s" width = 7%></a>
   <a href = "https://code.visualstudio.com" title = "VSCode"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width = 7%></a>
   <a href = "https://spring.io/projects/spring-boot" title = "SpringBoot"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" width = 7%></a>
     <a href = "https://threejs.org" title = "Three.js"><img src = "https://user-images.githubusercontent.com/13366932/91737137-f5dd9d80-ebae-11ea-9a68-aa6088f73133.png" width = 7%></a>
