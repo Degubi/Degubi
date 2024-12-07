@@ -10,7 +10,6 @@
 <p align = center>
   <img src = "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width = 7%>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width = 7%>
-  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width = 7%>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fsharp/fsharp.png" width = 7%>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width = 7%>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = 7%>
@@ -24,21 +23,17 @@
 ## Tools
 <p align = center>
   <a href = "https://neovim.io" title = "Neovim"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVmqFmFmx0l56lgFgNyc4TlfdZTZ0Ni1MBA&s" width = 7%></a>
-  <a href = "https://code.visualstudio.com" title = "VSCode"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width = 7%></a>
-  <a href = "https://spring.io/projects/spring-boot" title = "SpringBoot"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" width = 7%></a>
-    <a href = "https://threejs.org" title = "Three.js"><img src = "https://user-images.githubusercontent.com/13366932/91737137-f5dd9d80-ebae-11ea-9a68-aa6088f73133.png" width = 7%></a>
-  <a href = "https://svelte.dev" title = "Svelte"><img src = "https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" width = 7%></a>
-  <a href = "https://fastify.dev" title = "Fasfify"><img src = "https://www.svgrepo.com/show/306030/fastify.svg" width = 7%></a>
   <a href = "https://actix.rs" title = "Actix"><img src = "https://actix.rs/img/logo.png" width = 7%></a>
+  <a href = "https://spring.io/projects/spring-boot" title = "SpringBoot"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" width = 7%></a>
+  <a href = "https://fastify.dev" title = "Fasfify"><img src = "https://www.svgrepo.com/show/306030/fastify.svg" width = 7%></a>
+  <a href = "https://threejs.org" title = "Three.js"><img src = "https://user-images.githubusercontent.com/13366932/91737137-f5dd9d80-ebae-11ea-9a68-aa6088f73133.png" width = 7%></a>
+  <a href = "https://svelte.dev" title = "Svelte"><img src = "https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" width = 7%></a>
   <a href = "https://flutter.dev" title = "Flutter"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width = 7%></a>
   <br>
-  <a href = "https://www.postgresql.org" title = "PostgreSQL"><img src = "https://cdn-icons-png.flaticon.com/256/5968/5968342.png" width = 7%></a>
   <a href = "https://www.sqlite.org" title = "SQLite"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width = 7%></a>
   <a href = "https://www.mongodb.com" title = "MongoDB"><img src = "https://img.icons8.com/color/452/mongodb.png" width = 7%></a>
   <a href = "https://dotnet.microsoft.com" title = ".Net"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width = 7%></a>
   <a href = "https://nodejs.org" title = "NodeJS"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width = 7%></a>
-  <a href = "https://www.heroku.com" title = "Heroku"><img src = "https://cdn-icons-png.flaticon.com/256/873/873120.png" width = 7%></a>
-  <a href = "https://git-scm.com" title = "Git"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/64px-Git_icon.svg.png" width = 7%></a>
   <a href = "https://www.atlassian.com/software/jira" title = "Jira"><img src = "https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width = 7%></a>
 </p>
 
