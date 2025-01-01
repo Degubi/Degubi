@@ -1,7 +1,6 @@
 ## Links
 
 <p align = center>
-  <a href = "https://leetcode.com/u/Degubi" title = "LeetCode"><img src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode"></a>
   <a href = "https://www.youtube.com/channel/UCEN3i-ELXbeamHhk21RVaZQ" title = "YouTube"><img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"></a>
   <a href = "https://open.spotify.com/user/316pkgollq5svwjl5mavvigwi2ti" title = "Follow"><img src = "https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify"></a>
   <a href = "https://steamcommunity.com/id/Degubi" title = "Steam"><img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam"></a>
