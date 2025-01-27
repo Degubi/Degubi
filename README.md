@@ -38,6 +38,11 @@
   <a href = "https://www.atlassian.com/software/jira" title = "Jira"><img src = "https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width = 7%></a>
 </p>
 
+## Stats
+<div align = center>
+  <img src = "/github-metrics.svg">
+</div>
+
 ## Projects I contributed to
 <table>
   <tr>
