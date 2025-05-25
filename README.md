@@ -58,5 +58,6 @@
   <tr>
     <td><a href="https://github.com/mrdoob/three.js">three.js</a></td>
     <td><a href="https://github.com/three-types/three-ts-types">three-ts-types</a></td>
+    <td><a href="https://github.com/actix/actix-web">actix-web</a></td>
   </tr>
 </table>
