@@ -16,7 +16,7 @@
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = 7%>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width = 7%>
   <br>
-  <img src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width = 7%>
+  <img src = "https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/c/c.png" width = 7%>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width = 7%>
   <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width = 7%>
 </p>
@@ -35,7 +35,7 @@
   <a href = "https://www.mongodb.com" title = "MongoDB"><img src = "https://img.icons8.com/color/452/mongodb.png" width = 7%></a>
   <a href = "https://dotnet.microsoft.com" title = ".Net"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width = 7%></a>
   <a href = "https://nodejs.org" title = "NodeJS"><img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width = 7%></a>
-  <a href = "https://www.atlassian.com/software/jira" title = "Jira"><img src = "https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width = 7%></a>
+  <a href = "https://www.atlassian.com/software/jira" title = "Jira"><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrb84R83l6mWa_fhIj47sctMrcrCyoJpYDGg&s" width = 7%></a>
 </p>
 
 ## Stats
